@@ -1,2 +1,2 @@
 # pragmaticlearning
-<introducing Github>
+introducing Github
